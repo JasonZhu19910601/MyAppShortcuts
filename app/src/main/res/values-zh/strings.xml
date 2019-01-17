@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyAppShortcuts</string>
+    <string name="add_new_website">添加新网站</string>
+    <string name="add_new_website_short">添加网站</string>
+    <string name="existing_shortcuts">现有快捷方式：</string>
+    <string name="remove_shortcut">移除</string>
+    <string name="disable_shortcut">禁用</string>
+    <string name="enable_shortcut">启用</string>
+</resources>
